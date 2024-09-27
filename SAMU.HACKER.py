@@ -30,7 +30,7 @@ banner = """
 
 
 
-                                  BY | Hackudo #8859  
+                                  BY | SAMU #9999  
 
 """
 
